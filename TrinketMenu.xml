@@ -82,7 +82,8 @@
 		</Layers>
 	</Frame>
 	<!-- MainFrame: Equipped Trinkets -->
-	<Frame name = "TrinketMenu_MainFrame" toplevel = "true" frameStrata = "BACKGROUND" enableMouse = "true" movable = "true" parent = "UIParent" hidden = "true" inherits = "TrinketMenuBackdropTemplate">
+	<!-- <Frame name = "TrinketMenu_MainFrame" toplevel = "true" frameStrata = "BACKGROUND" enableMouse = "true" movable = "true" parent = "UIParent" hidden = "true" inherits = "TrinketMenuBackdropTemplate"> -->
+	<Frame name = "TrinketMenu_MainFrame" frameStrata = "BACKGROUND" enableMouse = "true" movable = "true" parent = "UIParent" hidden = "true" inherits = "TrinketMenuBackdropTemplate">
 		<Size>
 			<AbsDimension x = "92" y = "52" />
 		</Size>
